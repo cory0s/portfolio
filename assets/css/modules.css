@@ -531,3 +531,13 @@ button,
     .icon > .label {
         display: none;
     }
+
+/* Video */
+ 
+video{
+    z-index:-100;
+    min-width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
