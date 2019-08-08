@@ -1,2 +1,2 @@
 # portfolio
-Personal portfolio using GatsbyJS
+Personal portfolio project
