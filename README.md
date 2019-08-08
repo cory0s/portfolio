@@ -1,2 +1,2 @@
 # portfolio
-Creates a personal portfolio
+Personal portfolio using GatsbyJS
